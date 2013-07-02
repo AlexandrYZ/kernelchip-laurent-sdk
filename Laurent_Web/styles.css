@@ -1,0 +1,18 @@
+A.bl:link {TEXT-DECORATION: underline; color: #00549A}
+A.bl:visited {TEXT-DECORATION: underline; color: #00549A}
+A.bl:hover {COLOR:  rgb(0,153,0); TEXT-DECORATION: none}
+A.bl:active {color: rgb(0,153,0);  TEXT-DECORATION: underline}
+
+.textb {font-family:Verdana; font-size: 11; color: black }
+.text {font-family: Verdana; font-size: 10; color: rgb(102,102,102)}
+.ttt {font-size:100%; line-height:130%; margin-bottom:0.5em; margin-top:0; text-indent:0em; text-align: center;}
+.text2 {font-family:Verdana; font-size: 13; color: rgb(102,102,102); }
+.leb {font-size:100%; line-height:130%; margin-bottom:0.5em; margin-top:0; text-indent:0em;}
+.textBl {font-family:Verdana; font-size: 13; color: black }
+.level {font-family:Verdana; font-size: 18; color: #616351; font-weight: normal; TEXT-DECORATION: none}
+.laurent {font-family: Tahoma; font-size: 26; color: white; font-weight: bold }
+.texts {font-family:Verdana; font-size: 11; color: rgb(102,102,102) }
+
+
+.slider { background-image: url(slider_bg.gif); background-repeat: repeat-x;	}
+.knob { position: relative; background-image: url(knob.gif); }
